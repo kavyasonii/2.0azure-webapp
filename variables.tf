@@ -12,3 +12,7 @@ variable "storage_account" {
   type        = string
   description = "Storage Account Name"
 }
+variable "client_secret" {
+  type    = string
+
+}
